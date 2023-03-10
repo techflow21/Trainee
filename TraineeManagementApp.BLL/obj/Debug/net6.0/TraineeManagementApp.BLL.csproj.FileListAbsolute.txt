@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\TraineeManagementApp\TraineeManagementApp.BLL\bin\Debug\net6.0\TraineeManagementApp.BLL.deps.json
+C:\Users\HP\Desktop\TraineeManagementApp\TraineeManagementApp.BLL\bin\Debug\net6.0\TraineeManagementApp.BLL.dll
+C:\Users\HP\Desktop\TraineeManagementApp\TraineeManagementApp.BLL\bin\Debug\net6.0\TraineeManagementApp.BLL.pdb
+C:\Users\HP\Desktop\TraineeManagementApp\TraineeManagementApp.BLL\bin\Debug\net6.0\TraineeManagementApp.DAL.dll
+C:\Users\HP\Desktop\TraineeManagementApp\TraineeManagementApp.BLL\bin\Debug\net6.0\TraineeManagementApp.DAL.pdb
+C:\Users\HP\Desktop\TraineeManagementApp\TraineeManagementApp.BLL\obj\Debug\net6.0\TraineeManagementApp.BLL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TraineeManagementApp\TraineeManagementApp.BLL\obj\Debug\net6.0\TraineeManagementApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TraineeManagementApp\TraineeManagementApp.BLL\obj\Debug\net6.0\TraineeManagementApp.BLL.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TraineeManagementApp\TraineeManagementApp.BLL\obj\Debug\net6.0\TraineeManagementApp.BLL.AssemblyInfo.cs
+C:\Users\HP\Desktop\TraineeManagementApp\TraineeManagementApp.BLL\obj\Debug\net6.0\TraineeManagementApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TraineeManagementApp\TraineeManagementApp.BLL\obj\Debug\net6.0\TraineeManagementApp.BLL.csproj.CopyComplete
+C:\Users\HP\Desktop\TraineeManagementApp\TraineeManagementApp.BLL\obj\Debug\net6.0\TraineeManagementApp.BLL.dll
+C:\Users\HP\Desktop\TraineeManagementApp\TraineeManagementApp.BLL\obj\Debug\net6.0\refint\TraineeManagementApp.BLL.dll
+C:\Users\HP\Desktop\TraineeManagementApp\TraineeManagementApp.BLL\obj\Debug\net6.0\TraineeManagementApp.BLL.pdb
+C:\Users\HP\Desktop\TraineeManagementApp\TraineeManagementApp.BLL\obj\Debug\net6.0\ref\TraineeManagementApp.BLL.dll
