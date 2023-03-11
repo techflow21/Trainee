@@ -1,4 +1,2 @@
 # Trainee Management App
 
-
-
