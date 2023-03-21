@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\TraineeManagementSystem\TraineeManagementSystem.DAL\bin\Debug\net6.0\TraineeManagementSystem.DAL.deps.json
+C:\Users\HP\Desktop\TraineeManagementSystem\TraineeManagementSystem.DAL\bin\Debug\net6.0\TraineeManagementSystem.DAL.runtimeconfig.json
+C:\Users\HP\Desktop\TraineeManagementSystem\TraineeManagementSystem.DAL\bin\Debug\net6.0\TraineeManagementSystem.DAL.dll
+C:\Users\HP\Desktop\TraineeManagementSystem\TraineeManagementSystem.DAL\bin\Debug\net6.0\TraineeManagementSystem.DAL.pdb
+C:\Users\HP\Desktop\TraineeManagementSystem\TraineeManagementSystem.DAL\obj\Debug\net6.0\TraineeManagementSystem.DAL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TraineeManagementSystem\TraineeManagementSystem.DAL\obj\Debug\net6.0\TraineeManagementSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TraineeManagementSystem\TraineeManagementSystem.DAL\obj\Debug\net6.0\TraineeManagementSystem.DAL.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TraineeManagementSystem\TraineeManagementSystem.DAL\obj\Debug\net6.0\TraineeManagementSystem.DAL.AssemblyInfo.cs
+C:\Users\HP\Desktop\TraineeManagementSystem\TraineeManagementSystem.DAL\obj\Debug\net6.0\TraineeManagementSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TraineeManagementSystem\TraineeManagementSystem.DAL\obj\Debug\net6.0\TraineeManagementSystem.DAL.dll
+C:\Users\HP\Desktop\TraineeManagementSystem\TraineeManagementSystem.DAL\obj\Debug\net6.0\refint\TraineeManagementSystem.DAL.dll
+C:\Users\HP\Desktop\TraineeManagementSystem\TraineeManagementSystem.DAL\obj\Debug\net6.0\TraineeManagementSystem.DAL.pdb
+C:\Users\HP\Desktop\TraineeManagementSystem\TraineeManagementSystem.DAL\obj\Debug\net6.0\TraineeManagementSystem.DAL.genruntimeconfig.cache
+C:\Users\HP\Desktop\TraineeManagementSystem\TraineeManagementSystem.DAL\obj\Debug\net6.0\ref\TraineeManagementSystem.DAL.dll
