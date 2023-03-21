@@ -1,2 +1,2 @@
-# Trainee Management App
+# Trainee Management System
 
