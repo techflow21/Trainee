@@ -1,5 +1,3 @@
 # Trainee Management System
 
 
-
-
